@@ -59,3 +59,14 @@ authentication state in either layer.
 - Verify the current branch, dashboard decision, and source of truth before a
   mutation or publication.
 - Stop at every review gate requested by the owner.
+
+## Canonical dashboard presentation
+
+Use `$dashboard-system-operator` for dashboard design, records, modules,
+navigation, diagnosis, migrations, and private releases. Preserve its complete
+visual doctrine: friendly HubSpot-inspired hierarchy, compact pulse links,
+title-only lists, Requester-first provenance, one Action Item, acceptance work
+as Line Items, readable responsive registered modules, an interactive module
+inventory, and sanitized agent-only context behind a calm human layer. Avoid
+crowded previews, tiny type, raw machine state, fake freshness, and fixed
+layouts that overflow.
