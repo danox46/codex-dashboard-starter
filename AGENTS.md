@@ -65,7 +65,8 @@ authentication state in either layer.
 Use `$dashboard-system-operator` for dashboard design, records, modules,
 navigation, diagnosis, migrations, and private releases. Preserve its complete
 visual doctrine: friendly HubSpot-inspired hierarchy, compact pulse links,
-title-only lists, Requester-first provenance, one Action Item, acceptance work
+title-only lists, Requester-first provenance, compact expandable Action Items
+and Next Actions kept distinct from Line Items, acceptance work
 as Line Items, readable responsive registered modules, an interactive module
 inventory, and sanitized agent-only context behind a calm human layer. Avoid
 crowded previews, tiny type, raw machine state, fake freshness, and fixed
